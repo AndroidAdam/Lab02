@@ -1,4 +1,6 @@
 # winter2015-lab02
 Starter project for Tutorial 2C
 
-Completed first portion of the lab
+Adam Jesse - Set 3G - A00860588 
+
+Lab complete!
