@@ -11,12 +11,14 @@
  *
  * @author Adam
  */
-class About extends CI_Controller {
+class About extends Application {
         /**
          * Index page for this controller.
          */
     	public function index()
 	{
-		$this->load->view('about');
+		//$this->load->view('about');
+            $this->data['pagebody'] = 'welcome';
+            $this->render();
 	}
 }
